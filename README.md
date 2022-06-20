@@ -1,9 +1,9 @@
-# Image caption Generator Using MS-COCO data set
+# Image caption Generator Using MS-COCO dataset
+### Warning : The MS-COCO dataset is of 13 GB and its time consuming.
+
 Given an image like the example below, your goal is to generate a caption such as "a surfer riding on a wave".
 
 ![Man Surfing](https://tensorflow.org/images/surf.jpg)
-
-*[Image Source](https://commons.wikimedia.org/wiki/Surfing#/media/File:Surfing_in_Hawaii.jpg); License: Public Domain*
 
 To accomplish this, you'll use an attention-based model, which enables us to see what parts of the image the model focuses on as it generates a caption.
 
